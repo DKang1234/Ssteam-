@@ -1,0 +1,35 @@
+html {
+	background: linear-gradient(black, #162742);
+	font-size: 12px;
+	color: white;
+}
+
+
+main {
+	display: flex;
+}
+
+section {
+  width: 20%;
+  margin: 5px;
+  background-color: #B7B5E4;
+  position: relative;
+  height: 250px;
+  border-radius: 5%;
+  color: #322E18
+}
+
+section img {
+  width: 100%;
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  height: 60% 
+  
+}
+
+.footer{
+	position: absolute;
+	bottom: 0px;
+	color: grey
+}

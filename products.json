@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Blue Steam",
+		"image": "beam.jpg",
+		"price": "5.00"
+	},
+	{
+		"name": "Red Steam",
+		"image": "Ream.jpg",
+		"price": "5.00"
+	},
+	{
+		"name": "Green Steam",
+		"image": "Gream.jpg",
+		"price": "5.00"
+	},
+	{
+		"name": "Purple Steam",
+		"image": "Peam.jpg",
+		"price": "5.00"
+	},
+	{
+		"name": "Yellow Steam",
+		"image": "Yeam.jpg",
+		"price": "5.00"
+	},
+	{
+		"name": "And many more!",
+		"image": "Smoke.jpg",
+		"price": "5.00"
+	
+	}
+]
